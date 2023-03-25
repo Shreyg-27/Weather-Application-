@@ -19,15 +19,15 @@ With this information, users can get a clear understanding of the weather condit
 
 **Working of the application**
 
-This weather website project relies on OpenWeatherMap's API, which provides real-time weather data for any location worldwide. By integrating this API into our project, we are able to provide users with up-to-date weather information, including temperature, weather conditions, and more, for any city they select. This API ensures that our website provides reliable and accurate weather data for users who need to check the weather before planning their activities.
+This weather website project relies on OpenWeatherMap's API, which provides real-time weather data for any location worldwide. By integrating this API into my project, I was able to provide users with up-to-date weather information, including temperature, weather conditions, and more, for any city they select. This API ensures that the website provides reliable and accurate weather data for users who need to check the weather before planning their activities.
 
 The website has been created with the help of *flask*.
 
 **Imported- flask, request, requests, and render_template.**
 
-Our weather app utilizes the OpenWeatherMap API to obtain current weather data for the user's selected location. By using HTTP requests and methods like GET and POST, our app communicates with the API to retrieve and send the necessary data.
+The weather app utilizes the OpenWeatherMap API to obtain current weather data for the user's selected location. By using HTTP requests and methods like GET and POST, the app communicates with the API to retrieve and send the necessary data.
 
-The weather app provides real-time weather information for any location worldwide, using the OpenWeatherMap API. The app is designed to help users quickly and easily access the weather data they need. Whether you're planning a trip, choosing what to wear for the day, or simply interested in the latest weather updates, our app has you covered.
+The weather app provides real-time weather information for any location worldwide, using the OpenWeatherMap API. The app is designed to help users quickly and easily access the weather data they need. Whether you're planning a trip, choosing what to wear for the day, or simply interested in the latest weather updates, the app has you covered.
 
 
 
