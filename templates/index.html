@@ -13,9 +13,13 @@
       href="{{ url_for('static', filename='css/bootstrap.css') }}"
     />
 
-    <title>Weather App</title>
+    <title>WeatherNow</title>
 
     <style>
+      body{
+        background: linear-gradient(to bottom, #62CDFF 10%, #C9EEFF 90%);
+
+      }
       form {
         margin: 30px auto;
         width: 90% !important;
@@ -39,8 +43,10 @@
   </head>
 
   <body>
+
     <form class="container" method="post">
-      <h2><i class="bi bi-cloud-haze"></i>Weather App</h2>
+      <h2><i class="bi bi-cloud-haze"></i>WeatherNow</h2>
+      <h6>Your perfect weather companion</h6>
 
       <div class="form-group">
         <label>City Name</label>
